@@ -9,4 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Devesh Tiwari
+Dynamic Programming
+In this module, I learned how complex problems can be solved by breaking them into smaller overlapping subproblems and storing intermediate results using memoization or tabulation. I understood how dynamic programming improves time complexity compared to brute-force recursion. I also learned to identify optimal substructure and overlapping subproblems, which are key indicators for applying DP. Additionally, I practiced designing efficient solutions while balancing both time and space complexity.
 
